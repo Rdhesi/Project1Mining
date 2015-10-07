@@ -6,7 +6,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: New Material 2
+  m_Name: New Material 4
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: _EMISSION
   m_LightmapFlags: 1
@@ -131,8 +131,8 @@ Material:
       data:
         first:
           name: _EmissionColor
-        second: {r: .102941155, g: .100331075, b: .0083261244, a: 1}
+        second: {r: .230879396, g: .264705896, b: .0194636714, a: 1}
       data:
         first:
           name: _Color
-        second: {r: .410592407, g: .433823526, b: .0127595272, a: 1}
+        second: {r: 1, g: .889655113, b: 0, a: 1}
